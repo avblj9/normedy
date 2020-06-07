@@ -1,2 +1,2 @@
-# normedy_webpage
+# normedy
 Health Social Network
